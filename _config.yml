@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Pandemic Response Dashboard
-description: A centralized dashboard for monitoring pandemic-related metrics such as infection rates, vaccination coverage, and hospital capacity across regions. Built using AWS services, this system enables real-time data collection, scalable analytics, and interactive visualization.
+description: A centralized dashboard for monitoring pandemic-related metrics.
 show_downloads: true
